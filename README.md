@@ -2,15 +2,15 @@
 In the website I have used HTML and CSS to describe the uses of Medicine and Drugs in a topic that was in the way. 
 
 
-# Drugs. 
+## Drugs. 
  Prescribed 
  
-# Price. 
+## Price. 
 Nathan 
  
- # Weeds. 
+## Weeds. 
  planted 
  
- # Price. 
+## Price. 
  R 10 - 50
  
